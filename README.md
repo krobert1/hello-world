@@ -3,4 +3,4 @@ Just another repository
 
 
 Hello people
-Am Robert here and a new to programming
+Am Robert here and am new to programming
